@@ -1,0 +1,7 @@
+[AQA][FE][BE] Data set not updated on method trigger 
+
+1. Use method update_dates 
+2. Observe the response
+
+Act.Result: Nothing returns
+Exp.Result: Modified data should be returned
